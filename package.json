@@ -1,0 +1,16 @@
+{
+  "name": "demo120",
+  "version": "1.0.0",
+  "description": "",
+  "main": "studFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "studFile.js"
+  },
+	"keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
